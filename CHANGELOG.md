@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.1.2](https://github.com/microsoftgraph/microsoft-graph-toolkit/compare/v3.1.1...v3.1.2) (2023-08-25)
+
+
+### Bug Fixes
+
+* adds pointer cursor to logged in accounts ([#2674](https://github.com/microsoftgraph/microsoft-graph-toolkit/issues/2674)) ([11e5a1c](https://github.com/microsoftgraph/microsoft-graph-toolkit/commit/11e5a1cb319812afdb2355c4973e9b072ea680e0))
+* set custom css token --default-font-family to apply to all elements in DOM ([#2677](https://github.com/microsoftgraph/microsoft-graph-toolkit/issues/2677)) ([cb69e01](https://github.com/microsoftgraph/microsoft-graph-toolkit/commit/cb69e0160b41773f65d88a4ea457fc18b7360f51))
+
 ## [3.1.1](https://github.com/microsoftgraph/microsoft-graph-toolkit/compare/v3.1.0...v3.1.1) (2023-08-17)
 
 
